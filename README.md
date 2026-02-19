@@ -13,4 +13,11 @@ Remember, it's self-paced so feel free to take a break! ☕️
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## ✅ Exercise Completed
 
+The MCP integration exercise has now been finished. All required steps were followed and the repository is fully set up
+to demonstrate how to integrate Copilot with a Model Context Protocol (MCP) server.
+
+Thanks for the walkthrough, Mona! 👋
+
+(This commit **closes #1**.)
